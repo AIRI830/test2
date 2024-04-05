@@ -1,0 +1,6 @@
+﻿.photo {
+    width: 500px;
+    height: 500px;
+    background: red;
+    background-image: url("Img/photo.JPG");
+}
